@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unto His Grace, His Majesties High Commissioner, and the Right Honourable Estates of Parliament, the petition of the tacks-men of the pole-money</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64727</idno>
+            <idno type="STC">Wing U99G</idno>
+            <idno type="STC">ESTC R220729</idno>
+            <idno type="EEBO-CITATION">99832121</idno>
+            <idno type="PROQUEST">99832121</idno>
+            <idno type="VID">36592</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64727)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36592)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2100:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Unto His Grace, His Majesties High Commissioner, and the Right Honourable Estates of Parliament, the petition of the tacks-men of the pole-money</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh,</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  History --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:36592:1"/>
+            <head>
+               <g ref="char:V">Ʋ</g>nto His Grace, His MAJESTIES <hi>High Commiſſioner,</hi> and the Right Honourable Eſtates of <hi>Parliament, The PETITION of</hi> the Tacks-men of the <hi>Pole-money</hi>
+            </head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat whereas the late Officers of His Majeſties Forces, having given in a Petition to the Parliament, making mention, that the Pole-money by the Act of Parliament being de<g ref="char:EOLhyphen"/>ſtinat for payment of the Arrears due to the Countrey in the firſt Place, and for the Arrears due to the Officers in the next place, and the Superplus to be applyed to the Kings uſe, and diſ<g ref="char:EOLhyphen"/>charging the ſamen to be applyed to any other uſe; The ſaid Pole-money being ſet in Tack for 44100 <hi>lib. ſterling,</hi> and that the Officers had received no payment of their Arrears, albeit the Terms of payment of the Pole-money be elapſed, and that they were informed that the Tax-men were to apply to the Parliament for an Abatement of the Sum for which it was Rouped, or that it may be turned into a Collection, and alledging that the Pole-money being deſtinat for re-payment of the Arrears due to the Countrey, and to them there was thereby <hi>jus queſitum</hi> ſo that it could not be inverted to any other uſe, altered or diminiſhed without their Conſents, and that ſo ſoon as the Polemoney was Rouped, they had Right to the Sum and Bonds grant<g ref="char:EOLhyphen"/>ed to the Theſaury and Exchequer for the ſamen, and that the Tackſmen having taken the Tack with the hazard of Gain or Loſs, they are lyable for the Tack-duty to the Countrey and the Officers, and ſo there could be no Abatement given to their prejudice; And therefore craves that the Tackſmen may be ordained to make payment of the Tack-duty to the Exchequer, or that Diligence may be uſed againſt them for the ſamen; As to which we humbly repreſent.</p>
+            <p n="1">1. That the Pole-money not being formerly in uſe in this Nation, there could be no certain Eſtimat taken of it what it would amount to, ſo that we could not well know what to offer for it; but ſuch was our Zeal for the Kings Service, that we frankly offered a great Sum for it, but now when we have taken a Tryal, we find it comes vaſtly ſhort of what was expect<g ref="char:EOLhyphen"/>ed: And we having given in a Repreſentation of the caſe to the King, humbly craving, that the Tack might be turned into a Collection: His Majeſty was graciouſly pleaſed to ſignifie his Royal Pleaſure to the Theſaury, that he had intruſted his Grace the Lord Commiſſioner, in re<g ref="char:EOLhyphen"/>lation to what he would have done in the Affair of the Ferm of the Pole Act, and that an In<g ref="char:EOLhyphen"/>quiry of the whole matter muſt be made, it was therefore his pleaſure not to preſs at preſent the Fermers of the ſaid Pole upon their Contract for payment above their Collections, providing they delay to preſs the Countrey upon the head of the Quadruples: By which it is evident, that the Kings plain Meaning is, that after Inquiry made of the matter, if the Pole-money which is the ſubject, ſhould fall ſhort, then the Tack ſhould be turned into a Collection, and that the Countrey ſhould be free of the Penaltie of the Quadruples appointed by the Act.</p>
+            <p n="2">2. Albeit the Officers had ſtated their Arrears, and that thereby they had an Intereſt in the Pole-money, that Intereſt can extend no farder than the true Sums uplifted from the Coun<g ref="char:EOLhyphen"/>try, by vertue of the Pole Act, and the King has ſtill the Adminiſtration of it: And if the Ex<g ref="char:EOLhyphen"/>chequer has ſet it in Tack, and gotten more than the true Sums uplifted from the Country, what<g ref="char:EOLhyphen"/>ever the Tacksmen are obliged to pay more than what is uplifted from the Country, the Offi<g ref="char:EOLhyphen"/>cers have no Intereſt in it, but that properly belongs to the King: and his Majeſtie upon juſt Reaſons, may quite it and give it down, or otherwiſe diſpoſs of it at his pleaſure, as has been uſual to be done in the like caſes, and there was a particular Inſtance of it, in the caſe of the Town of <hi>Edinburgh,</hi> as to their Gift of two <hi>pennies</hi> on the Pint before the Revolution, which being ſet by the Town, for thirty two thouſand <hi>Merks,</hi> or thereby: And the Exchequer finding that it was much more worth, the Lords of Theaſurie did ſet it for ten thouſand <hi>pounds</hi> of Advantage, and did take the <hi>ſuperplus</hi> to the King. And the Town of <hi>Edinburgh</hi> by their
+<pb n="2" facs="tcp:36592:2"/>Git, had as good a pretence of Right to the <hi>ſuperplus</hi> that the Tackſmen were obliged to pay for that Impoſition, as the Officers can have to the <hi>ſuperplus</hi> of the Pole-money due by the Tack, more than what truly the Pole-money uplifted from the Country ariſes to; yet the Town of <hi>Edinburgh</hi> never ſo much as offered to pretend a Right to the ſaid <hi>ſuperplus,</hi> more than what was in uſe to be payed to them of Impoſition, but the ſame was payed into the Exchequer, as properly belonging to the King: and it is clear by the Pole Act, that the Officers have no far<g ref="char:EOLhyphen"/>der Intereſt in the Pole-mony for payment of their Arrears, but only in ſo far as ſhall truly be uplifted from the Country, by vertue of that Act, ſo that if the Tackſmen hold, compt for all the Pole-money that has been uplifted from the Country, the Officers have no farder Intereſt, nor are they anyways prejudged:</p>
+            <p>The Tackſmen can never be lyable for payment of the Tack-duty, but only as Collectors, becauſe the method preſcrived by the Act of Parliament, for the effectual uplifting the Pole-money, was not obſerved, in ſo far as, by the Act, the Commiſſioners of Aſſeſſment, and the Magiſtrats of Burghs are appointed to take up Rolls and Liſts of all the Poleable perſons within their Bounds, which were to be Recorded in the Regiſter of the Shire, or Burgh, and Abſtracts thereof ſent to the Lords of the Theaſurie, betwixt and the firſt of <hi>October</hi> 1694, which was not done: and the Tackſmen having entered into the Tack, upon the Faith of the ſaid Act, and the methods appointed for making up of the Liſts, not being obſerved by the Commiſſioners and Magiſtrats, and their Rolls not being returned to the Theſaurie, which was to be the Rule conform to which the Tackſmen were to uplift the Pole, they cannot be lyable for the Tack-duty: and albeit the Privy Council did emit ſeveral Proclamations for Stating and In-bring<g ref="char:EOLhyphen"/>ing of the Pole-money, yet they were not obſerved by the Commiſſioners of Supply, and Ma<g ref="char:EOLhyphen"/>giſtrats of Burrows, to whom the Truſt of that matter was committed, ſo that ſtill it proved un<g ref="char:EOLhyphen"/>effectual. And no Liſt being ſent to the Lords of the Theſaurie, as was appointed by the Act of Parliament, and but very few ſent to the Pole-Office at <hi>Edinburgh,</hi> as was appointed by the Act of Privy Council, we did take Inſtruments thereupon, both at the Theſaurie Chamber, and Pole-Office at <hi>Edinburgh,</hi> as appears by the Inſtruments herewith produced.</p>
+            <p>Any Liſts that were made or ſent in, which were but very few, as ſaid is, the ſame were ſo im<g ref="char:EOLhyphen"/>perfect and defective, as to the numbers, and ſo erronious as to the ſtating of mens Degrees and Qualities, that in effect they are little better than no Liſts at all, and though theſe Diffi<g ref="char:EOLhyphen"/>culties be ſuch, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> might have put an abſolute Stop to our Procedure, it being abſolutly impoſ<g ref="char:EOLhyphen"/>ſible for us to raiſe the ſaid Pole-money, when the Act of Parliament, and Proclamations of Coun<g ref="char:EOLhyphen"/>cil were not obſerved, nor the Conditions of our Tack performed; Yet ſuch was our Care, to do all things poſſible on our part that might advance the Kings Intereſt, that we did be<g ref="char:EOLhyphen"/>fore the Term of Payment, divide our ſelves to ſeveral diſtricks, and went to the Country to have appointed Collectors for the ſeveral Parochins; But the Liſts not having been made in moſt parts, and where they were made, they being ſo confuſed and erronious, that what either was, or could be collected by theſe Liſts, do fall infinitly ſhort of the Tack-duty.</p>
+            <p>The ſhort-coming of the Pole was not only occaſioned by the neglect of the Commiſ<g ref="char:EOLhyphen"/>ſioners of Aſſeſſment, and the Magiſtrats of Burghs, in putting the Law and Proclamations of Council in Execution; But likewiſe it was occaſioned by the many Miſtakes that did ariſe in relation to the meaning of the Act of Parliament: For the way and method of Pole never having been eſſayed in this Kingdom, and it being in effect a matter that could not poſſibly be exactly ordered and digeſted at firſt, till after tryal, as it hapned in the caſe of the Pole in <hi>England,</hi> where albeit Poles had been formerly in uſe in that Kingdom, yet the late Pole there impoſed, after all the care that the Wiſdom of that Nation had taken, to diſgeſt and ſettle it in a right method, yet it came near the half ſhort of what it was reckoned to have amounted to, and for clearing of this Point we ſhal give ſome Inſtances, amongſt many more that might be given of the Miſtakes and Difficulties that did ariſe upon the Pole Act, ſuch as
+<list>
+                  <item>1. Ser<g ref="char:EOLhyphen"/>vants having more than ſix <hi>Pounds Scots</hi> of Fee, are appointed to pay the twentieth part, but the Act of Parliament not being expreſs, as to the Bounties and other Pennyworths they re<g ref="char:EOLhyphen"/>ceive, moſt of Heynds, Gardeners, and others, have only payed <hi>ſix pence per Head,</hi> when one with another of them might have payed much more: And further, Chamberlanes, Fac<g ref="char:EOLhyphen"/>tors, Grieves, Coal-hewers, and Salters, and the like, have refuſed the twentieth part of their Fees, making themſelves either ſimple ſix <hi>Pound</hi> Servants, or ranking themſelves in ſome eaſier Claſs.</item>
+                  <item>2. Tennents are appointed to pay a <hi>merk</hi> of the hundred <hi>merks</hi> of valued Rent which they poſſeſs, but in many places, the valued Rent is caſt with ſuch inequality amongſt the Ten<g ref="char:EOLhyphen"/>nents, that many of them, who ſhould pay above thirty <hi>ſhill.</hi> of Pole, do evite paying for their Children, conform to the Act, and this caſting of the valued Rent does alſo protect others,
+<pb n="3" facs="tcp:36592:2"/>and make a conſiderable Dimunition.</item>
+                  <item>3. By the ſaid Act, Tradſmen inhabiting within any Burgh, whether of Royality, Regality, or Barony, whoſe Free Stock and Means is above a 100 <hi>merks</hi> &amp; does not extend to 500 <hi>merks,</hi> are made lyable to a <hi>merk Scots,</hi> including the 6 <hi>pence</hi> of general Pole, &amp; theſe whoſe Stock does extend to 500 <hi>merks,</hi> ſhal be lyable to one <hi>lib.</hi> 10 <hi>ſh.</hi> and thoſe whoſe Stocks is above 5000 <hi>merks,</hi> and does not extend to a 10000 <hi>merks,</hi> ſhal be lyable in 4 <hi>lib.</hi> and thoſe whoſe Stocks above 10000 <hi>merks,</hi> ſhould be lyable in 10 <hi>lib.</hi> yet there are ſeve<g ref="char:EOLhyphen"/>ral Merchants and Tradſmen who live in the Country, but not within a Royal Burgh, Rega<g ref="char:EOLhyphen"/>litie nor Baronie, whoſe Stock are above an hundred Merks, and ſo ſhould be lyable for a Merk of Pole, and theſe that have above five hundred Merks to one pound ten ſhilling, and yet they pretend to be free for the general Six pence Pole, becauſe they do not live within any of the foreſaids Burghs, which ought to be cleared.</item>
+                  <item>4. Many Heretors, and repute Gentlemen, yet have not payed their five <hi>ſhill. Pole;</hi> but only the general <hi>ſix pence Pole:</hi> Nor have they offered to renounce their being Gentlemen, as the Act preſcribes, ſo that the ſaid condition of Renunciation hath proven quite ineffectual.</item>
+                  <item>5. When Gentlemen were appointed to pay by their valued Rent, yet what by deducing parts life ren<g ref="char:EOLhyphen"/>ted, or dividing of the Eſtate betwixt Father and Son, or other near Relations, they make themſelves of a lower Claſs, and that evades the Pole: and no Heretor of fifty <hi>pounds Scots</hi> of valued Rent, and under hath payed more than his general <hi>ſix pence Pole.</hi>
+                  </item>
+                  <item>6. The Sons of Gentlemen generally refuſed to pay as Gentlemen, on pretence that they are ſtill <hi>in familia,</hi> which the Act of Parliament hath not explained,</item>
+                  <item>7. There is very few Gentlewomen un<g ref="char:EOLhyphen"/>married, though <hi>foris familiat,</hi> and poſſeſſing their proviſions, have payed more than <hi>ſix pence.</hi>
+                  </item>
+                  <item>8. By the Act, Writers, not Writers to the Signet ſhould pay their <hi>ſix pounds</hi> and generally, upon ſeveral pretences not obviat in the Act, they pay only <hi>ſix pence.</hi>
+                  </item>
+                  <item>9. Doc<g ref="char:EOLhyphen"/>tors of Medicine are appointed to pay twenty four <hi>pounds Scots,</hi> and yet the far greater num<g ref="char:EOLhyphen"/>ber of theſe who truely practiſe, do not own themſelves to be either Doctors or Phiſitians, and ſo eſcape for <hi>ſix pence.</hi> By which few inſtances, for making out the defects and miſtakes that were un-fore-ſeen at the making of the Act, it plainly appears, how much the Tax-men has been diſappointed on this accompt,</item>
+               </list>
+            </p>
+            <p>As to that pretence, That we did take the ſaid Tack with the hazard of gain or loſs. It is Anſwered, That it has been always the ordinary practice, not only in the caſe of the King's Revenues, but likewiſe in the caſe of any part of a Burghs Common-good Sett in Tack, that when the Tacks-men makes it appear by clear evidences, that they are conſiderable loſers, the Tack hath been turned into a Collection; whereof many inſtance might be given. And if it were otherways, no man hereafter would ever make any offer at ſuch Roups, which would be an infinite loſs to the Publick: And we do not doubt, but that upon tryal, it being clearly made appear, that we are ſuch vaſt loſers, but that the King out of His Royal Goodneſs and Clemency, would allow the Tack to be turned into a Collection. And it were hard that the Officers would make any oppoſition to it; we extreamly wiſh that theſe Officers who did raiſe Forces upon their own Char<g ref="char:EOLhyphen"/>ges, for ſecurity of the Government at the Revolution, ſhould be re-imburſed of their Charges; But we hope they will be ſo generous and juſt, as not to deſire their Charges ſhould be re-imburſed out of our privat Fortunes. And to evidence that they are not ſham pretences that we make uſe of for turning the Tack into a Collection; we are content the ſtricteſt Tryal imaginable be taken for finding out of all the Pole-money that was truly uplifted from the Countrey; and for that effect ſhall produce our Books, and are content, that we, our Collectors and Servants, and all perſons that have been imployed about the uplifting of the Pole-money, be examined upon Oath, what has been truly received of the famine; and we are content to hold Compt ac<g ref="char:EOLhyphen"/>cordingly; our neceſſar Charges and Expences in Collecting and In-gathering of the Pole being always allow<g ref="char:EOLhyphen"/>ed; ſo that we being <hi>in damno vitando,</hi> and the Officers <hi>in lucro captando</hi> (at leaſt as to us) it is moſt agree<g ref="char:EOLhyphen"/>able to Law, Juſtice, and Equity, that the Tack ſhould be turned into a Collection, and that we ſhould be Comptable for no more than what was truly received.</p>
+            <p>It is evident from what is above-repreſented, in relation to the not obſerving of the Act of Parliament, and Proclamations of Council, that the moſt part of the Kingdom have incurred the Penalty of the <hi>Quadr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uple:</hi> And if we ſhould be holden at the Tack, and be obliged to pay the Tack-duty, it would neceſſitat us to exact the <hi>Quadroulpes</hi> off the Countrey: And how prejudicial that might be to the common Intereſt of the Nati<g ref="char:EOLhyphen"/>on, the Parliament may eaſily judge: And His Majeſty has ſo far taken notice of that conſideration, that by His gracious Letter to the Theſaury, He has made it a condition of forbearing Diligence againſt us up<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Tack, that we delay the exacting the <hi>Quadrouples</hi> from the Countrey, which clearly intimats, that rather then the <hi>Quadrouples</hi> be exacted off the Countrey, the Tack ſhould be turned into a Collection.</p>
+            <p>It is therefore humbly craved, that your Grace, and the Honourable Eſtates, would be pleaſed to take the Premiſſes to your Conſideration, and exoner your Petitioners from the ſaid Tack, and to declare that we ſhall be only Comptable as Collectors; and we are content to have no benefite, but only that we may have allowance of our neceſſary Charges and Expences we have been at, in Collecting and In-gathering of what is received of the ſaid Pole-money. And your Petitioners ſhall ever pray.</p>
+            <pb facs="tcp:36592:3" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
